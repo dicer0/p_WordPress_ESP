@@ -11,4 +11,4 @@ And this specific repository contains documentation about the WordPress CMS (con
 <br/>
 &nbsp;
 
-[![Altium Designer](http://dicer0.com/wp-content/uploads/2023/10/p_Wordpress.png)](https://dicer0.com/#skills)
+[![Altium Designer](http://dicer0.com/wp-content/uploads/2023/10/p_WP.png)](https://dicer0.com/#skills)
